@@ -1,0 +1,18 @@
+{
+    "name": "dev/test_case_date_handler",
+    "type": "project",
+    "require": {
+        "php": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "TestCaseDateHandler\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrey Bogdanov",
+            "email": "bogdanov6391@gmail.com"
+        }
+    ]
+}
